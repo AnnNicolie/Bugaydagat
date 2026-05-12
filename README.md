@@ -67,7 +67,7 @@ Developers
 Bachelor of Science in Information Technology 
 
 Group Name
-  BLAST
+(BLAST)
 - Ann Nicoolie Antonino
   (Capstone Project Developer
 - Ashley Marie Gayares
