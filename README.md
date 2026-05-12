@@ -75,5 +75,5 @@ Group Name
 - Cherry Mae Sardenola
   (Documenter)
 
- License
-This project is for educational purposes only.
+License
+ -This project is for educational purposes only.
