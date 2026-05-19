@@ -62,9 +62,9 @@ Admin
 - Passwords (codeastro)
 
 End User
--User name (katee)
--password (katee123)
-
+- Username (katee)
+- Password (katee123)
+  
 Objectives
 - Provide convenient seafood delivery services
 - Promote local seafood businesses
