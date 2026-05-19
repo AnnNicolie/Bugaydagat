@@ -54,8 +54,12 @@ Other Tools
 - GitHub
 - XAMPP
 
- Security Features
+Security Features
 - Password Encryption
+
+Admin
+- Username (admin)
+- Passwords (codeastro)
 
 Objectives
 - Provide convenient seafood delivery services
@@ -68,8 +72,8 @@ Bachelor of Science in Information Technology
 
 Group Name
 (BLAST)
-- Ann Nicoolie Antonino
-  (Capstone Project Developer
+- Ann Nicolie Antonino
+  (Capstone Project Developer)
 - Ashley Marie Gayares
    (UI/UX)
 - Cherry Mae Sardenola
